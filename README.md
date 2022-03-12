@@ -19,4 +19,4 @@ These files were designed to harm your computer
 
 
 # Todo
-[] Deobfuscate files in the functions directory
+- [ ] Deobfuscate files in the functions directory
