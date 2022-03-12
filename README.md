@@ -3,7 +3,7 @@
 
 # DISCLAIMER
 > This is for **EDUCATIONAL PURPOSES ONLY**
-> Most of this malware has been deactivated, but I cannot guarantee that it is fully disabled.
+Most of this malware has been deactivated, but I cannot guarantee that it is fully disabled.
 
 Whatever you do, do NOT run any of these files.
 These files were designed to harm your computer.
