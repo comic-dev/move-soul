@@ -15,3 +15,8 @@ These files were designed to harm your computer
 > This repository is made to be inspected only
 > I will not take responsibility if your computer gets harmed by these files
 > There was a disclaimer above.
+
+
+
+# Todo
+[] Deobfuscate files in the functions directory
